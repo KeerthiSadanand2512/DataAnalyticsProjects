@@ -1,2 +1,3 @@
 For this analysis i have used excel for data visualizations and analysis.
-The dataset have lots of missing values in the release date column , Since it is a simple (basic project) analysis , i have avoided the missing column and removed that data from the datasets.
+The dataset have lots of missing values in the release date column , Since it is a simple (basic project) analysis , 
+I have avoided the missing column and removed that data from the datasets.
